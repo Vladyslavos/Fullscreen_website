@@ -16,20 +16,24 @@ height: 100%;
 }
 
 /*media-querry*/
-@media (max-width: 768px;){
+@media (max-width: 768px){
 .left-side{
 	height: 30vh;
 	margin-bottom: 0;
 	position: relative;
 	width: 100%;
+  }
 }
+
+
+
 /*media-querry*/
-}
 .avatar{
-	width: 12rem;
-	height: 10rem;
+	width: 13rem;
+	height: 9rem;
 	margin: 1rem;
 	border-radius: 50%;
+	margin: 1rem;
 }
 .full-height{
 	height: 100%;
@@ -43,4 +47,11 @@ font-family: 'Alfa Slab One', cursive;
 section{
 	margin: 5rem;
 	font-size: 1.2rem;
+}
+.card{
+	height: 12rem;
+}
+a{
+	color: gray;
+	text-decoration: none;
 }
