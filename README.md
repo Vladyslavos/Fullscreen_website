@@ -1,6 +1,6 @@
-<h1 align="center" Portfolio_example</h1>
+<h1 align="center"> Portfolio_example</h1>
 
-<samp>In this project, I made a portfolio example in which the left side is fixed and the right side scrolls using Bootstrap 5.
+<samp width="20px">In this project, I made a portfolio example in which the left side is fixed and the right side scrolls using Bootstrap 5.
 You can see the result of the work by the link:</samp>
 https://vladyslavos.github.io/Portfolio_example/
 
