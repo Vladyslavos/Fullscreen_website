@@ -1,6 +1,6 @@
 <h1 align="center"> Portfolio_example:construction_worker_man:</h1>
 
-<h3>In this project, I made a portfolio example in which the left side is fixed and the right side scrolls using Bootstrap 5.</h3><br>
+<b>Description:</b><p>In this project, I made a portfolio example in which the left side is fixed and the right side scrolls using Bootstrap 5.</p><br>
   <a href="https://vladyslavos.github.io/Portfolio_example/">LIVE</a>
 
 
