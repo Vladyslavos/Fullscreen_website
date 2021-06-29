@@ -5,3 +5,8 @@
 
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/67589338/123788014-2fbd2480-d8e4-11eb-8506-ab7d0f2078e8.gif)
+
+<b>Technologies that I used:</b>
+<ul>
+  <li>HTML 5</li>
+</ul>
