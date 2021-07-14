@@ -1,4 +1,4 @@
-<h1 align="center"> Portfolio example on Bootstrap:construction_worker_man:</h1>
+<h1 align="center"> Portfolio example on Bootstrap</h1>
 
 <p><b>Description:</b> In this project, I made a portfolio example in which the left side is fixed and the right side scrolls using Bootstrap 5.</p>
   <a href="https://vladyslavos.github.io/Portfolio_example/">LIVE</a>
